@@ -1,0 +1,37 @@
+body{
+	background-image: url("bkgrd_img.jpg");
+	background-size: auto;
+	background-repeat: no-repeat;
+
+}
+
+div{
+   position: fixed;
+  top: 40%;
+  left: 38%;
+  margin-top: -50px;
+  margin-left: -100px;
+ }
+
+h2{
+	color: #162656;
+	text-align: center;
+	text-shadow: 1px 2px #4F608F;
+}
+
+.btn1{
+	position: fixed;
+  	top: 60%;
+  	left: 51%;
+  	margin-top: -50px;
+  	margin-left: -100px;
+  	border:none;
+  	color:#061439;
+}
+.btn{
+  background-color:transparent;
+}
+.btn:hover {
+  visibility: visible;
+  background-color: #061439;
+}
